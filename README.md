@@ -32,7 +32,7 @@ The tables ETL'd into PostgreSQL are as follows:
 ![products_table](/Resources/products_table.png)
 
 * Review ID table
-![review_table](/Resources/review_table.png)
+![review_table](/Resources/review_id_table.png)
 
 * Vine Table
 ![vine_table](/Resources/vine_table.png)
